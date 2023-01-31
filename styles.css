@@ -32,7 +32,7 @@ body {
     -webkit-font-smoothing: antialiased;
     display: flex;
     justify-content: center;
-    align-items: center;
+
 
 }
 
@@ -83,5 +83,24 @@ h6 {
 main {
     margin: 1rem;
     width: 400px;
- 
 }
+
+
+.disable {
+    opacity: 0.5;
+
+
+}
+
+
+.success {
+    color: green;
+}
+
+.failure {
+    color: red;
+}
+
+/* .btn{
+    background-color: grey;
+} */
